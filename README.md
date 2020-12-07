@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Kennesaw State University 2014-2018
 
-You can use the [editor on GitHub](https://github.com/andrez17/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+B.S Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Courses on Java, C++, Python, Linux, software development process, user-interface design, statistics, linear algebra, calculus, calculus II, and statistical machine learning.
 
 ### Markdown
 
