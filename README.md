@@ -19,6 +19,7 @@
 throughout development life cycle; determining design methodologies and tool sets; designing and conducting tests.
 - Integrating applications by designing database architecture; server scripting; studying and establishing connectivity with network systems, search engines, and information servers.
 
+<hr>
 
 # Gourmet Recipe Web App
 
@@ -38,6 +39,7 @@ throughout development life cycle; determining design methodologies and tool set
 - Developed to collect and analyze patient data and sort in structured manner
 - Implemented algorithm to make contacting patient fast and reliable
 
+<hr>
 
 ### Email
 pablo_avecilla@yahoo.com
