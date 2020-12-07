@@ -1,12 +1,12 @@
-## Kennesaw State University 2014-2018
+# Kennesaw State University
 
-B.S Computer Science
+## B.S Computer Science
 
 - Courses on Java, C++, Python, Linux, software development process, user-interface design, statistics, linear algebra, calculus, calculus II, and statistical machine learning.
 
-### Software Engineer
+# Software Engineer
 
-CodeMettle LLC
+## CodeMettle LLC
 
 - Determining operational feasibility by analysis, problem definition, requirements, and solution prototyping.
 - Developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
@@ -18,27 +18,24 @@ throughout development life cycle; determining design methodologies and tool set
 - Integrating applications by designing database architecture; server scripting; studying and establishing connectivity with network systems, search engines, and information servers.
 
 
-# Header 1
-## Header 2
-### Header 3
+# Gourmet Recipe Web App
 
-- Bulleted
-- List
+- Developed abstract recipe guide using system algorithms
+- Used Edmame API to retrieve and represent data
+- Designed for personal use and experimental purpose
 
-1. Numbered
-2. List
+# Microsoft HoloLens Guitar Project
 
-**Bold** and _Italic_ and `Code` text
+- Researched algorithms and developed application that allowed instructional guitar lessons
+- Developed object-oriented coding structure along with clean code
+- Created project using C# in Unity Real-Time Development Platform
 
-[Link](url) and ![Image](src)
-```
+# EMR Application
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Developed EMR Software to share internal patient information
+- Developed to collect and analyze patient data and sort in structured manner
+- Implemented algorithm to make contacting patient fast and reliable
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrez17/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Email
+pablo_avecilla@yahoo.com
