@@ -4,6 +4,8 @@
 
 - Courses on Java, C++, Python, Linux, software development process, user-interface design, statistics, linear algebra, calculus, calculus II, and statistical machine learning.
 
+<hr>
+
 # Software Engineer
 
 ## CodeMettle LLC
