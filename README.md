@@ -10,33 +10,29 @@
 
 ## CodeMettle LLC
 
-- Determining operational feasibility by analysis, problem definition, requirements, and solution prototyping.
-- Developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
-- Preparing and installing solutions by determining and designing system specifications, standards, and programming.
-- Providing information by collecting, analyzing, and summarizing development and service issues.
-- Developing software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.
-- Designing and developing user interfaces to internet applications by setting expectations and features priorities
-throughout development life cycle; determining design methodologies and tool sets; designing and conducting tests.
-- Integrating applications by designing database architecture; server scripting; studying and establishing connectivity with network systems, search engines, and information servers.
+- Created web and system software solutions for a data and network management platform using React JS, Redux, Axios, and Bootstrap
+- Developed reusable Python translators to control nodes over private networks
+- Prepared and installed solutions by determining and designing system specifications, standards, and programming using Java
 
 <hr>
 
-# Gourmet Recipe Web App
+# Military Field Devices Web Application
 
-- Developed abstract recipe guide using system algorithms
-- Used Edmame API to retrieve and represent data
-- Designed for personal use and experimental purpose
+- Design reusable user interface components in React JS with HTML5, CSS3, ES6 features
+- Managed application state with Redux
+- Displayed device information using API endpoints
+- Handled life cycle hooks, state management, props, and routing
 
 # Microsoft HoloLens Guitar Project
 
-- Researched algorithms and developed application that allowed instructional guitar lessons
-- Developed object-oriented coding structure along with clean code
-- Created project using C# in Unity Real-Time Development Platform
+- Developed application that allowed instructional guitar lessons using Python
+- Developed object-oriented coding structure along with reusable code
+- Created project using Unity Real-Time Development Platform
 
 # EMR Application
 
-- Developed EMR Software to share internal patient information
-- Developed to collect and analyze patient data and sort in structured manner
+- Developed EMR Software to share internal patient information in Java
+- Developed to collect and analyze patient data and sort using Vue JS
 - Implemented algorithm to make contacting patient fast and reliable
 
 <hr>
